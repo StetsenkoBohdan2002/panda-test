@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Ananiv",
+    "lon": 29.2346,
+    "lat": 47.7173,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Alchevsk",
+    "lon": 38.4523,
+    "lat": 48.4767,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Andrushivka",
+    "lon": 29.0602,
+    "lat": 50.0592,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Artemivsk",
+    "lon": 38.0064,
+    "lat": 48.5935,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Avdiivka",
+    "lon": 37.7427,
+    "lat": 48.1408,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Bakhchysarai",
+    "lon": 33.8566,
+    "lat": 44.7482,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Balakliia",
+    "lon": 36.8569,
+    "lat": 49.4412,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Bar",
+    "lon": 24.6323,
+    "lat": 49.0756,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Berdychiv",
+    "lon": 28.6021,
+    "lat": 49.8994,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Chernivtsi",
+    "lon": 25.9403,
+    "lat": 48.2917,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Cherkasy",
+    "lon": 32.0621,
+    "lat": 49.4285,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Chernihiv",
+    "lon": 31.2893,
+    "lat": 51.4979,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Chernobyl",
+    "lon": 30.2193,
+    "lat": 51.2763,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Chervonohrad",
+    "lon": 24.0314,
+    "lat": 50.3886,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Dnipro",
+    "lon": 35.0478,
+    "lat": 48.4647,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Donetsk",
+    "lon": 37.8044,
+    "lat": 48.0159,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Drohobych",
+    "lon": 23.5115,
+    "lat": 49.3493,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Druzhkivka",
+    "lon": 37.5348,
+    "lat": 48.6172,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Dymytrov",
+    "lon": 37.5011,
+    "lat": 48.5931,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Enerhodar",
+    "lon": 34.6322,
+    "lat": 47.4997,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Fastiv",
+    "lon": 29.9247,
+    "lat": 50.0669,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Gorlivka",
+    "lon": 37.6031,
+    "lat": 48.3119,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Horlivka",
+    "lon": 38.0474,
+    "lat": 48.2999,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Horodok",
+    "lon": 24.2972,
+    "lat": 49.2794,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Ivano-Frankivsk",
+    "lon": 24.7097,
+    "lat": 48.9226,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Kyiv",
+    "lon": 30.5234,
+    "lat": 50.4501,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Kharkiv",
+    "lon": 36.2314,
+    "lat": 49.9935,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Kryvyi Rih",
+    "lon": 33.3666,
+    "lat": 47.9027,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Kremenchuk",
+    "lon": 33.4252,
+    "lat": 49.0671,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Kropyvnytskyi",
+    "lon": 32.0576,
+    "lat": 48.511,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Lviv",
+    "lon": 24.0297,
+    "lat": 49.8397,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Lutsk",
+    "lon": 25.5948,
+    "lat": 50.7472,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Lysychansk",
+    "lon": 38.8988,
+    "lat": 48.9201,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Luhansk",
+    "lon": 39.3289,
+    "lat": 48.574,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Ladyzhyn",
+    "lon": 29.2384,
+    "lat": 48.6844,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Mariupol",
+    "lon": 37.5569,
+    "lat": 47.0969,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Mykolaiv",
+    "lon": 32.0639,
+    "lat": 46.975,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Mukachevo",
+    "lon": 22.6987,
+    "lat": 48.438,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Molochansk",
+    "lon": 35.2992,
+    "lat": 47.1788,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Makariv",
+    "lon": 29.8171,
+    "lat": 50.4552,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Nizhyn",
+    "lon": 31.8865,
+    "lat": 51.0469,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Nova Kakhovka",
+    "lon": 33.5278,
+    "lat": 46.8202,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Netishyn",
+    "lon": 26.2066,
+    "lat": 50.3341,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Nadvirna",
+    "lon": 24.6031,
+    "lat": 48.6364,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Nikopol",
+    "lon": 34.3964,
+    "lat": 47.5667,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Odessa",
+    "lon": 30.7326,
+    "lat": 46.4825,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Oleksandriia",
+    "lon": 33.1113,
+    "lat": 48.6715,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Ovruch",
+    "lon": 28.7986,
+    "lat": 51.3309,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Obukhiv",
+    "lon": 30.6226,
+    "lat": 50.1133,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Okhtyrka",
+    "lon": 34.893,
+    "lat": 49.4232,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Poltava",
+    "lon": 34.5407,
+    "lat": 49.5883,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Pavlohrad",
+    "lon": 35.8707,
+    "lat": 48.5318,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Pervomaisk",
+    "lon": 30.8537,
+    "lat": 48.6231,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Pryluky",
+    "lon": 32.4206,
+    "lat": 50.5939,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Pereiaslav",
+    "lon": 31.4512,
+    "lat": 50.0617,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Rivne",
+    "lon": 26.2521,
+    "lat": 50.6199,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Rovenky",
+    "lon": 38.2327,
+    "lat": 48.0875,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Rudky",
+    "lon": 24.5996,
+    "lat": 49.4995,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Reni",
+    "lon": 28.6823,
+    "lat": 45.4556,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Rokytne",
+    "lon": 25.6706,
+    "lat": 51.3183,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Sumy",
+    "lon": 34.7808,
+    "lat": 50.9077,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Sevastopol",
+    "lon": 33.5295,
+    "lat": 44.6166,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Sloviansk",
+    "lon": 37.6075,
+    "lat": 48.8666,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Sudak",
+    "lon": 34.8665,
+    "lat": 44.8506,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Skadovsk",
+    "lon": 33.5219,
+    "lat": 46.1162,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Ternopil",
+    "lon": 25.5931,
+    "lat": 49.5535,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Toretsk",
+    "lon": 37.8227,
+    "lat": 48.0442,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Trostianets",
+    "lon": 34.9889,
+    "lat": 50.4859,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Tokmak",
+    "lon": 35.8917,
+    "lat": 47.2571,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Trypillya",
+    "lon": 30.3733,
+    "lat": 51.3729,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Uzhhorod",
+    "lon": 22.2855,
+    "lat": 48.6208,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Uman",
+    "lon": 30.2249,
+    "lat": 48.7546,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Uzyn",
+    "lon": 30.055,
+    "lat": 49.8215,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Ustyluh",
+    "lon": 25.8443,
+    "lat": 51.1931,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Ukraine",
+    "lon": 31.1656,
+    "lat": 49.4229,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Vinnytsia",
+    "lon": 28.4801,
+    "lat": 49.2331,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Vovchansk",
+    "lon": 35.8633,
+    "lat": 50.3006,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Volnovakha",
+    "lon": 37.5061,
+    "lat": 47.5976,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Voznesensk",
+    "lon": 31.1827,
+    "lat": 47.5663,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Vilnohirsk",
+    "lon": 35.2926,
+    "lat": 47.6371,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Yalta",
+    "lon": 34.8697,
+    "lat": 44.4976,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Yenakiieve",
+    "lon": 38.2335,
+    "lat": 48.2306,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Yuzhne",
+    "lon": 30.6605,
+    "lat": 46.6221,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Yavoriv",
+    "lon": 23.3883,
+    "lat": 49.9294,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Yahotyn",
+    "lon": 30.2519,
+    "lat": 50.2821,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Zaporizhzhia",
+    "lon": 35.1396,
+    "lat": 47.8388,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Zhytomyr",
+    "lon": 28.6586,
+    "lat": 50.2547,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Zolochiv",
+    "lon": 24.8974,
+    "lat": 49.7952,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Zhovti Vody",
+    "lon": 34.7445,
+    "lat": 48.3436,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Zmiiv",
+    "lon": 36.244,
+    "lat": 49.669,
+    "country": "Ukraine"
+  }
+]
